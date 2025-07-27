@@ -8,6 +8,9 @@
 
 # production
 /build
+/dist
+.github
+sitemap.xml
 
 
 # misc
