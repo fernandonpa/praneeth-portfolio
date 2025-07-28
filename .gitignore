@@ -35,11 +35,6 @@ yarn-error.log*
 *.sln
 *.sw?
 
-# threejs specific
-*.glb
-*.gltf
-/public/models
-/public/textures
 
 # Optional: exclude large media files
 *.mp4
